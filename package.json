@@ -1,0 +1,23 @@
+{
+  "name": "fcc_votingapp",
+  "version": "1.0.0",
+  "description": "https://www.freecodecamp.org/challenges/build-a-voting-app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Starting the app...\" && server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exenza/FCC_votingapp.git"
+  },
+  "author": "Massimo Berta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exenza/FCC_votingapp/issues"
+  },
+  "homepage": "https://github.com/exenza/FCC_votingapp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
