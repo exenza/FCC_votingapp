@@ -10,4 +10,4 @@ if(process.env.heroku){
 }
 
 
-app.listen(process.env.port, () => console.log('Example app listening on port '+process.env.port))
+app.listen(process.env.PORT, () => console.log('Example app listening on port '+process.env.PORT))
